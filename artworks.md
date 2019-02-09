@@ -26,6 +26,7 @@
 5. dhairyabaweja: https://codepen.io/dhairyabaweja/full/XOrOZd
 6. vishnuk7:https://codepen.io/viuk/pen/LqyvBM
 7. mivishvajeet:https://codepen.io/mivishvajeet/pen/aXJgRL
+8. thesmallstar: https://codepen.io/smallstar/pen/yZvxGZ
 
 ## Artwork Task 4 - Superhero
 1.neerajd007: https://codepen.io/neerajd007/pen/QYWxZP?editors=1000
